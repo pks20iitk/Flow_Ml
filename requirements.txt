@@ -1,5 +1,4 @@
-# local package install
-
+# local package installpython setup.py sdist bdist_wheel
 # third party packages
 dvc
 dvc[gdrive]
